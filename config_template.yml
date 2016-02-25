@@ -1,0 +1,4 @@
+client_id: super
+client_secret: secret
+access_token: things
+access_token_secret: woo

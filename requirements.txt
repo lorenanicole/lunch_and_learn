@@ -1,0 +1,4 @@
+requests
+json
+pyyaml
+django==1.8
